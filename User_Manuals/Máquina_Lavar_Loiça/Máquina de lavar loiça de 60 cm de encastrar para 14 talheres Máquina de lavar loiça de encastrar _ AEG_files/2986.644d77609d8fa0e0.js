@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSHELL=self.webpackChunkSHELL||[]).push([[2986],{2986:function(e,t,a){a.r(t);var l=a(2807);let s=e=>{let{url:t,text:a,title:s,target:r,dataGtmId:u}=e.props;return t&&a?(0,l.jsx)("a",{className:e.className,title:s,href:t,target:r,"data-gtm-id":u||void 0,children:a}):null};t.default=s}}]);

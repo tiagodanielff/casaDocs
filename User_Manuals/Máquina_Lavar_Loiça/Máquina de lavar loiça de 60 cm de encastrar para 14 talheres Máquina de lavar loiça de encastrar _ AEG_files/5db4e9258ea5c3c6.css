@@ -1,0 +1,1 @@
+.progress-bar{position:fixed;z-index:99999;width:100%;top:0}.progress-bar--custom{--override-progress-linear--border-radius:var(--sds-radius-none);--override-progress-linear--indicator-border-radius:var(--sds-radius-none) var(--sds-radius-xs) var(--sds-radius-xs) var(--sds-radius-none)}

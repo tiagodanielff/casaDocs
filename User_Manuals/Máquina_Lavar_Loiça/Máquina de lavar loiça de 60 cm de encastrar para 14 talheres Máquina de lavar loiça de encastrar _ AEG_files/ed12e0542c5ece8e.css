@@ -1,0 +1,1 @@
+.notify-me-modal__summary{padding:var(--sds-space-inset-xs);display:var(--set-notify-me-modal__summary--display,flex);flex-direction:column}@media screen and (min-width:768px){.notify-me-modal__summary{--set-notify-me-modal__summary--display:none}}
