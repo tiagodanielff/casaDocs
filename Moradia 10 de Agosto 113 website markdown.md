@@ -296,6 +296,29 @@ Todos os interruptores de persianas são da marca Currysmarter [link](https://cu
 
 As tomadas eléctricas são na sua grande maioria convencionais, no entanto nos WCs tem protecção anti-humidade e em muitos dos pontos têm ligação directa USB e USB-C.
 
+| Divisão         | Individuais | Duplas | Triplas | Quadruplas | USB / USB-C | ITED               | Notas                                 |
+| --------------- | ----------- | ------ | ------- | ---------- | ----------- | ------------------ | ------------------------------------- |
+| **Rés de Chão** |             |        |         |            |             |                    |                                       |
+| WC              | 3           | 1      |         |            | 1           |                    | a dupla é superior                    |
+| Hall            | 5           |        |         |            |             |                    |                                       |
+| Cozinha         | 11          | 1      | 1       |            | 1           | 1 numa tripla      | 8 das 11 individuais estão escondidas |
+| Sala            | 7           | 2      | 2       | 1          | 1           | 3 ited numa tripla |                                       |
+| **Escadas**     | 5           |        |         |            |             |                    |                                       |
+| **1º Andar**    |             |        |         |            |             |                    |                                       |
+| Quarto RT       | 8           | 1      |         |            | 2           | 1 em dupla         |                                       |
+| Quarto Visitas  | 4           | 1      |         |            | 2           | 1 em dupla         |                                       |
+| WC Pequeno      | 1           |        |         |            |             |                    |                                       |
+| Lavandaria      | 6           | 2      |         |            |             |                    |                                       |
+| Quarto L        | 6           |        | 1       |            | 2           | 1 em tripla        |                                       |
+| WC Grande       | 2           |        |         |            |             |                    |                                       |
+| Quarto G        | 6           | 1      |         |            | 2           | 1 em dupla         |                                       |
+| **Sotão**       | 8           | 1      | 2       |            | 2           | 1 em individual    |                                       |
+| **TOTAL**       | **72**      | **10** | **6**   | **1**      | **13**      | **9**              |                                       |
+
+
+
+As tomadas electricas a serem instaladas são da BSEED. Inicialmente foram instaladas algumas de outras marcas, mas a ideia é transferir tudo para a BSEED para ficar tudo consistente.
+
 
 
 
@@ -465,7 +488,7 @@ Ainda pretendemos comprar um subwoofer embutido para tecto https://www.thomann.p
 
 ### 2º andar
 
-<img src="./SoundSystem/2ºandar.png" style="height:400px" />
+<img src="./SoundSystem/Sound_2ndFloor.png" style="height:400px" />
 
 
 
