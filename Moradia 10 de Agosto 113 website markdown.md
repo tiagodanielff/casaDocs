@@ -558,6 +558,42 @@ A casa está equipada com distribuidore de sinal de TV nos 3 pisos. O sinal é a
 
 
 
+# Cozinha
+
+## Electrodomésticos
+
+Na cozinha temos uma panóplia de electrodomésticos, cujas as dimensão são especificadas abaixo.
+
+| Item                         | Marca        | Modelo              | Dimensões de instalação (AxLxP) |
+| ---------------------------- | ------------ | ------------------- | ------------------------------- |
+| Frigorífico                  | Bosch        | KIR81AFE0 Series 6  | 1775.0 x 560 x 550              |
+| Placa de indução             | Bosch        | PXX875D67E Series 8 | 223 x 750-750 x 490-490         |
+| Microondas                   | Bosch        | BFR634GS1           | 220 x 350 x 270                 |
+| Gaveta de Aquecimento        | Bosch        | BIC630NS1           | 140 x 560 x 550                 |
+| Forno                        | Bosch        | HBG675B.1           | 585-595 x 560-568 x 550         |
+| Máquina de Lavar Louça       | AEG          | FSE76727P           | 818x596x560                     |
+| Frigorifico de vinhos        | GGM Gastro   | WKM100S-2N          | 840 x 495 x 580                 |
+| Aspirador debaixo da bancada | Ritter       | 940610              | 105 x 450 x 365                 |
+| Triturador de resíduos       | InSinkerator | Evolution 100-3B    | ver manual                      |
+
+
+
+## Lava-loiças
+
+Na cozinha existem 2 lava-loiças, um principal e um auxiliar perto da zona da placa de indução.
+
+Ambos são da Blanco Subline, um do modelo 700U e outro do modelo 160U.
+
+As especificações de ambos seguem abaixo.
+
+<img src="./imagens/Subline_700U.jpeg" style="height:180px" /><img src="./imagens/Subline_700U_tech.jpeg" style="height:200px" />
+
+<img src="./imagens/Subline_160U.jpeg" style="height:200px" /><img src="./imagens/Subline_160U_tech.jpeg" style="height:200px" />
+
+
+
+##
+
 
 
 # Manuais de instruções
@@ -570,7 +606,7 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 02   | Motor de Projector                                   | [TLMPL-1M](./User_Manuals/Motorized_Projector_Lift_User_Manual_Model_TLMPL-1M_TLMPL_1.5M.pdf) |
 | 03   | Forno                                                | [Bosch_HBG675B.1](./User_Manuals/Forno_HBG675B.1/9001650191_C.pdf) |
 | 04   | Aspirador de Cozinha                                 | [Ritter_940610](./User_Manuals/Aspirador_Cozinha_940610_BedAnl_XX_Einbau-Sockelsauger-SES10-BVC10-0721-Internet.pdf) |
-| 05   | Gaveta de Aquecimento                                | [Bosch_HBG675B.1](./User_Manuals/Gaveta_de_Aquecimento/9001280520_C.pdf) |
+| 05   | Gaveta de Aquecimento                                | [Bosch_BIC630NS1](./User_Manuals/Gaveta_de_Aquecimento/9001280520_C.pdf) |
 | 06   | Microondas                                           | [Bosch BFR634GS1](./User_Manuals/Microondas/9001654577_G.pdf) |
 | 07   | Secadora de roupa                                    | [Bosch WTW87541 Series 8](./User_Manuals/Secadora/9001276303_A.pdf) |
 | 08   | TV Philips                                           | [TV Philips 50´´](./User_Manuals/TV_Philips/975e08d5d49d45e7a2d2afbf0079659c.pdf) |
