@@ -560,6 +560,10 @@ A casa está equipada com distribuidore de sinal de TV nos 3 pisos. O sinal é a
 
 # Cozinha
 
+## Modelo 3D
+
+
+
 ## Electrodomésticos
 
 Na cozinha temos uma panóplia de electrodomésticos, cujas as dimensão são especificadas abaixo.
@@ -592,7 +596,20 @@ As especificações de ambos seguem abaixo.
 
 
 
-##
+## Buracos na bancada
+
+Temos ainda 7 buracos na bancada, com as seguintes especificações.
+
+| Item                             | Diametro (mm) |
+| -------------------------------- | ------------- |
+| **Pia Principal**                |               |
+| Torneira                         | 35            |
+| Dispensadores de detergente (2x) | 27            |
+| Botão do triturador              | 33            |
+| **Pia Secundária**               |               |
+| Torneira                         | 35            |
+| Dispensador de detergente        | 27            |
+| **Tomada elétrica extraível**    | 125           |
 
 
 
