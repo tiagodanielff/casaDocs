@@ -314,10 +314,11 @@ As tomadas eléctricas são na sua grande maioria convencionais, no entanto nos 
 | Quarto G        | 6           | 1      |         |            | 2           | 1 em dupla         |                                       |
 | **Sotão**       | 8           | 1      | 2       |            | 2           | 1 em individual    |                                       |
 | **TOTAL**       | **72**      | **10** | **6**   | **1**      | **13**      | **9**              |                                       |
+|                 | 11          | 10     | 6       | 1          | 13          |                    | ha 10 molduras individuais em falta   |
 
 
 
-As tomadas electricas a serem instaladas são da BSEED. Inicialmente foram instaladas algumas de outras marcas, mas a ideia é transferir tudo para a BSEED para ficar tudo consistente.
+As tomadas electricas a serem instaladas são da **BSEED E-Series**. Inicialmente foram instaladas algumas de outras marcas, mas a ideia é transferir tudo para a BSEED para ficar tudo consistente.
 
 
 
@@ -589,6 +590,7 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 22   | Arylic Up2Stream Amp                                 | [Arylic Up2Stream Amp](./User_Manuals/Sound/Up2Stream_AMP_Mono_Manual-EN.pdf) |
 | 23   | Arylic A50+                                          | [Arylic A50+](./User_Manuals/Sound/A50_Manual_EN_20210821.pdf) |
 | 24   | Bomba circuladora                                    | [Alpha2 25-60 180](./User_Manuals/Grundfosliterature-5564472_17061462.pdf) |
+| 25   | Triturador de comida                                 | [InSinkErator Evolution 100 Waste Disposal Unit](./User_Manuals/ISE_FWD_InstallGuide_Sept20_1_Web.pdf) |
 
 
 
