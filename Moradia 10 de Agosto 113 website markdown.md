@@ -142,7 +142,7 @@ Para o WC pequeno usou-se 3L de base com 1,5L de resina hidrofuga para cada uma 
 
 ## Piso do 2º andar
 
-O 2º andar era composto por chão de madeira. O mesmo foi mantido, afim de manter a traça da casa. Por baixo deste existia um tecto falso para o primeiro andar. O mesmo foi também mantido, mesmo com a construção de um 2º tecto falso por baixo do mesmo.
+O 2º andar era composto por chão de madeira de pinho. Todo o piso da parte habitável foi afagado e envernizado. O mesmo foi mantido, afim de manter a traça da casa. Por baixo deste existia um tecto falso para o primeiro andar. O mesmo foi também mantido, mesmo com a construção de um 2º tecto falso por baixo do mesmo.
 
 
 
@@ -278,6 +278,8 @@ A casa tem uma rede combinada de electricidade, em conformidade com o plano de e
 
 Todos os circuitos da casa são monitorizados por componentes Shelly Pro 4PM, que permitem fazer medições individualizadas de cada um.
 
+A cablagem electrica em uso consite em cabos de 1,5 para iluminação, e 2,5 para tomadas.
+
 
 
 ## Interruptores de luz
@@ -289,6 +291,62 @@ Todos os interruptores de luz são da marca Currysmarter [link](https://currysma
 ## Interruptores de persianas
 
 Todos os interruptores de persianas são da marca Currysmarter [link](https://currysmarter.com/), com LED, aplicação smart-home e interligação com Alexa / Google Home.
+
+
+
+## Iluminação
+
+A iluminação é feita com focus GU10 da Philips Hue, fitas LED também da Philips Hue e candeeiros suspensos.
+
+O resumo da iluminação nas diversas áreas da casa é resumido abaixo.
+
+| Divisão            | Focus  | Candeeiros | Fitas de LED (ML) |
+| ------------------ | ------ | ---------- | ----------------- |
+| **Rés de Chão**    |        |            |                   |
+| WC                 | 3      |            | 2                 |
+| Hall               | 3      |            |                   |
+| Cozinha            | 7      | 1          | 11,66             |
+| Sala               | 20     | 2          | 21,58 + 24,62     |
+| **Hall / Escadas** | 5      | 1          |                   |
+| **1º Andar**       |        |            |                   |
+| Quarto RT          | 8      |            |                   |
+| Quarto Visitas     | 6      |            |                   |
+| WC Pequeno         | 4      |            |                   |
+| Lavandaria         | 7      |            |                   |
+| Quarto L           | 6      |            |                   |
+| WC Grande          | 4      |            |                   |
+| Quarto G           | 6      |            |                   |
+| Corredor           | 4      |            |                   |
+| **Sotão**          | 10     | 2          |                   |
+| **TOTAL**          | **93** | **6**      | **58**            |
+
+De momento tenho os seguinte productos comprados:
+
+Hue **46 Gu10 Brancas**
+
+Goovee **20 Gu10 coloridas**
+
+Já estão **15 Gu10 brancas** instaladas
+
+Total: **81 luzes**
+
+Faltam: **12 luzes**
+
+
+
+As Goovee ficavam bem na sala e sala de jantar.
+
+No quarto RT, deveriam ficar 8 Hue coloridas.
+
+Dai o que é recomendável comprar é: 
+
+8 Gu10 Hue Color - €85,12 (net) cada 3 - **€255**
+
+5 Gu 10 Hue Brancas - **€89,00** (net)
+
+Total: **344 euros** (net)
+
+
 
 
 
@@ -312,9 +370,10 @@ As tomadas eléctricas são na sua grande maioria convencionais, no entanto nos 
 | Quarto L        | 6           |        | 1       |            | 2           | 1 em tripla        |                                       |
 | WC Grande       | 2           |        |         |            |             |                    |                                       |
 | Quarto G        | 6           | 1      |         |            | 2           | 1 em dupla         |                                       |
+| Corredor        |             |        |         |            |             |                    |                                       |
 | **Sotão**       | 8           | 1      | 2       |            | 2           | 1 em individual    |                                       |
-| **TOTAL**       | **72**      | **10** | **6**   | **1**      | **13**      | **9**              |                                       |
-|                 | 11          | 10     | 6       | 1          | 13          |                    | ha 10 molduras individuais em falta   |
+| **TOTAL**       | **72**      | **10** | **6**   | **1**      | **15**      | **9**              |                                       |
+|                 | 26          | 10     | 6       | 1          | 13          |                    |                                       |
 
 
 
@@ -444,55 +503,6 @@ A rede de águas pluviais tem um ramal exclusivo de saída para a rede pública.
 
 
 
-
-
-# Som
-
-## Regras
-
-| Room Size | Speaker Quantity |
-| --------- | ---------------- |
-| 1-10m²    | 1 speaker        |
-| 11-30m²   | 2 speakers       |
-| 31-60m²   | 4 speakers       |
-| 61-80m²   | 6 speakers       |
-
-
-
-## Colunas
-
-* [Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker](https://www.arylic.com/products/wbc65-wireless-multiroom-ceiling-speaker?srsltid=AfmBOopcj0rjAXRYJQ394_a2A20IxdsHC0oVoDj_Q17Komyj0TB1I0kT) × **8** (Master + Slave)
-* [Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker](https://www.arylic.com/products/wbc65-wireless-multiroom-ceiling-speaker?srsltid=AfmBOopcj0rjAXRYJQ394_a2A20IxdsHC0oVoDj_Q17Komyj0TB1I0kT) × **4** (mono)
-* [Arylic RK30 Wall Mount Cube Speaker](https://www.arylic.com/products/wall-mount-speaker-rk30?srsltid=AfmBOoodY9McK-6ItLS3NItCWxfwFgm1-vUEHkhBiKlJfZ44wsccyRyU) (pair) × **3**
-* [Polk Audio RC60i ](https://www.polkaudio.com/product/built-in-speakers/in-ceiling/rc60i/112720.html) (pair) x **2**
-* [Arylic Up2Stream Mini](https://www.arylic.com/products/up2stream-mini-receiver-board?srsltid=AfmBOorydGVmRCdsU5sjFc7m5MKgzuKYR7OrSXC_Ry9KvWl1pAiWD6fr) - Multiroom Wi-Fi Streamer Board (No Amp) × **5**
-* [Arylic Up2Stream Amp](https://www.arylic.com/products/up2stream-amp-2-1-amp-board?srsltid=AfmBOoqahP8uDdpB2PI2MOlTRf3R713Ya90pfDc3ugkPranYpeO8uJiK) - Multiroom Wireless Streaming Stereo Amplifier Board × **7**
-* [Arylic A50+ 50W x 2 Streaming Amplifier](https://www.arylic.com/products/arylic-a50-wifi-bluetooth-multiroom-full-digital-hifi-amplifier-with-airplay-dlna-multiroom-control?srsltid=AfmBOopGjMy7WEGoaNOjEWfPF0P6irflQqP_3_EEECzyXCtTHkDkNSLk) × **1**
-
-Nota: As colunas Arylic RK30 precisam de um amplificador. O aconselhado para cada par de colunas é [A30+ 30W x 2 WiFi Mini Stereo Amplifier](https://www.arylic.com/products/a30-wireless-amplifier?srsltid=AfmBOop9eoESdIk50I_N6rZxGnuv54OL7SghNEA_Bnm5ShlCa1kOaz7Z).
-
-Ainda pretendemos comprar um subwoofer embutido para tecto https://www.thomann.pt/bose_designmax_dm8c_sub_white.htm
-
-
-
-## Mapa de Colunas
-
-### Rés-de-chão
-
-<img src="./SoundSystem/RC.png" style="height:600px" />
-
-
-
-### 1º andar
-
-<img src="./SoundSystem/Sound_1stFloor.png" style="height:600px" />
-
-### 2º andar
-
-<img src="./SoundSystem/Sound_2ndFloor.png" style="height:400px" />
-
-
-
 # Persianas / Estores
 
 | Zona | Descrição         | Quantidade |
@@ -558,6 +568,68 @@ A casa está equipada com distribuidore de sinal de TV nos 3 pisos. O sinal é a
 
 
 
+# Multimédia
+
+## Som
+
+### Regras
+
+| Room Size | Speaker Quantity |
+| --------- | ---------------- |
+| 1-10m²    | 1 speaker        |
+| 11-30m²   | 2 speakers       |
+| 31-60m²   | 4 speakers       |
+| 61-80m²   | 6 speakers       |
+
+
+
+### Colunas
+
+* [Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker](https://www.arylic.com/products/wbc65-wireless-multiroom-ceiling-speaker?srsltid=AfmBOopcj0rjAXRYJQ394_a2A20IxdsHC0oVoDj_Q17Komyj0TB1I0kT) × **8** (Master + Slave)
+* [Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker](https://www.arylic.com/products/wbc65-wireless-multiroom-ceiling-speaker?srsltid=AfmBOopcj0rjAXRYJQ394_a2A20IxdsHC0oVoDj_Q17Komyj0TB1I0kT) × **4** (mono)
+* [Arylic RK30 Wall Mount Cube Speaker](https://www.arylic.com/products/wall-mount-speaker-rk30?srsltid=AfmBOoodY9McK-6ItLS3NItCWxfwFgm1-vUEHkhBiKlJfZ44wsccyRyU) (pair) × **3**
+* [Polk Audio RC60i ](https://www.polkaudio.com/product/built-in-speakers/in-ceiling/rc60i/112720.html) (pair) x **2**
+* [Arylic Up2Stream Mini](https://www.arylic.com/products/up2stream-mini-receiver-board?srsltid=AfmBOorydGVmRCdsU5sjFc7m5MKgzuKYR7OrSXC_Ry9KvWl1pAiWD6fr) - Multiroom Wi-Fi Streamer Board (No Amp) × **5**
+* [Arylic Up2Stream Amp](https://www.arylic.com/products/up2stream-amp-2-1-amp-board?srsltid=AfmBOoqahP8uDdpB2PI2MOlTRf3R713Ya90pfDc3ugkPranYpeO8uJiK) - Multiroom Wireless Streaming Stereo Amplifier Board × **7**
+* [Arylic A50+ 50W x 2 Streaming Amplifier](https://www.arylic.com/products/arylic-a50-wifi-bluetooth-multiroom-full-digital-hifi-amplifier-with-airplay-dlna-multiroom-control?srsltid=AfmBOopGjMy7WEGoaNOjEWfPF0P6irflQqP_3_EEECzyXCtTHkDkNSLk) × **1**
+
+Nota: As colunas Arylic RK30 precisam de um amplificador. O aconselhado para cada par de colunas é [A30+ 30W x 2 WiFi Mini Stereo Amplifier](https://www.arylic.com/products/a30-wireless-amplifier?srsltid=AfmBOop9eoESdIk50I_N6rZxGnuv54OL7SghNEA_Bnm5ShlCa1kOaz7Z).
+
+Ainda pretendemos comprar um subwoofer embutido para tecto https://www.thomann.pt/bose_designmax_dm8c_sub_white.htm
+
+
+
+### Mapa de Colunas
+
+#### Rés-de-chão
+
+
+
+<img src="./SoundSystem/RC.png" style="height:600px" />
+
+
+
+#### 1º andar
+
+<img src="./SoundSystem/Sound_1stFloor.png" style="height:600px" />
+
+#### 2º andar
+
+<img src="./SoundSystem/Sound_2ndFloor.png" style="height:400px" />
+
+
+
+## Projector
+
+A passagem para o projector tem uma variedade de cablagem a passar:
+
+- 2 cabos HDMI
+- 1 Cabo SPIF
+- 1 Cabo Ethernet
+- 1 cabo de currente 220V
+
+
+
 # Cozinha
 
 ## Modelo 3D
@@ -575,7 +647,7 @@ Na cozinha temos uma panóplia de electrodomésticos, cujas as dimensão são es
 | Microondas                   | Bosch        | BFR634GS1           | 220 x 350 x 270                 |
 | Gaveta de Aquecimento        | Bosch        | BIC630NS1           | 140 x 560 x 550                 |
 | Forno                        | Bosch        | HBG675B.1           | 585-595 x 560-568 x 550         |
-| Máquina de Lavar Louça       | AEG          | FSE76727P           | 818x596x560                     |
+| Máquina de Lavar Louça       | AEG          | FSE76727P           | 818 x 596 x 560                 |
 | Frigorifico de vinhos        | GGM Gastro   | WKM100S-2N          | 840 x 495 x 580                 |
 | Aspirador debaixo da bancada | Ritter       | 940610              | 105 x 450 x 365                 |
 | Triturador de resíduos       | InSinkerator | Evolution 100-3B    | ver manual                      |
@@ -617,33 +689,33 @@ Temos ainda 7 buracos na bancada, com as seguintes especificações.
 
 O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de instruções dos diversos dispositivos e elementos da casa. Abaixo segue uma lista com os diversos documentos.
 
-| ID   | Descrição                                            | Link                                                         |
-| ---- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| 01   | Frigorífico                                          | [Bosch KIR81AFE0 Series 6](./User_Manuals/Frigorifico_Bosch_KIR81AFE0_Series_6/9001595475_A.pdf) |
-| 02   | Motor de Projector                                   | [TLMPL-1M](./User_Manuals/Motorized_Projector_Lift_User_Manual_Model_TLMPL-1M_TLMPL_1.5M.pdf) |
-| 03   | Forno                                                | [Bosch_HBG675B.1](./User_Manuals/Forno_HBG675B.1/9001650191_C.pdf) |
-| 04   | Aspirador de Cozinha                                 | [Ritter_940610](./User_Manuals/Aspirador_Cozinha_940610_BedAnl_XX_Einbau-Sockelsauger-SES10-BVC10-0721-Internet.pdf) |
-| 05   | Gaveta de Aquecimento                                | [Bosch_BIC630NS1](./User_Manuals/Gaveta_de_Aquecimento/9001280520_C.pdf) |
-| 06   | Microondas                                           | [Bosch BFR634GS1](./User_Manuals/Microondas/9001654577_G.pdf) |
-| 07   | Secadora de roupa                                    | [Bosch WTW87541 Series 8](./User_Manuals/Secadora/9001276303_A.pdf) |
-| 08   | TV Philips                                           | [TV Philips 50´´](./User_Manuals/TV_Philips/975e08d5d49d45e7a2d2afbf0079659c.pdf) |
-| 09   | TV Samsung                                           | [TV Philips 85´´](./User_Manuals/TV_Samsung/BN68-16813B-01_UM_Y23 QLED UHD QD_XC_L09_240605.0.pdf) |
-| 10   | Frigorífico para vinhos                              | [Wine Cooler WKM100S-2N](./User_Manuals/WKM Manual EN DE.pdf) |
-| 11   | Máquina Loiça                                        | [AEG FSE76727P](./User_Manuals/Máquina_Lavar_Loiça/117832391_UserManual_241123NRVM.pdf) |
-| 12   | Placa de Indução                                     | [Bosch PXX875D67E Series 8](./User_Manuals/Placa_Indução/9001685210_D.pdf) |
-| 13   | Máquina de gelo                                      | [Ice Maker EWBH356W-N](./User_Manuals/Ice_Maker/EN-OPERATION MANUAL-GGM.pdf) |
-| 14   | Máquina lavar roupa                                  | [Bosch Series 6](./User_Manuals/.pdf)                        |
-| 15   | Sirene de Alarme exterior                            | [Bosch Outdoor Siren](./User_Manuals/Bosch_Outdoor_Siren.pdf) |
-| 16   | Curtinas Motorizadas - Rails                         | [Abalon_Tracks](./User_Manuals/Abalon-User-Manual_24_baja.pdf) |
-| 17   | Aspirador de Casa e Jardim                           | [Bosch Advanced Vac 20](./User_Manuals/Aspirador_Garden_Bosch.pdf) |
-| 18   | Colunas Polk rc60i                                   | [Polk rc60i](./User_Manuals/Sound/rc60i-rc80i-rc85i-owners-manual-en.pdf) |
-| 19   | Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker | [Arylic WBC65](./User_Manuals/Sound/WBC65_User_Manual_En_2021.pdf) |
-| 20   | Arylic RK30 Wall Mount Cube Speaker                  | [Arylic RK30](./User_Manuals/Sound/RK30_User_Manual_EN_ba0ac6e6-1dfb-402e-b83e-75f61161039b.pdf) |
-| 21   | Arylic Up2Stream Mini                                | [Arylic Up2Stream Mini](./User_Manuals/Sound/Up2Stream_Mini_V3.0_Manual-en.pdf) |
-| 22   | Arylic Up2Stream Amp                                 | [Arylic Up2Stream Amp](./User_Manuals/Sound/Up2Stream_AMP_Mono_Manual-EN.pdf) |
-| 23   | Arylic A50+                                          | [Arylic A50+](./User_Manuals/Sound/A50_Manual_EN_20210821.pdf) |
-| 24   | Bomba circuladora                                    | [Alpha2 25-60 180](./User_Manuals/Grundfosliterature-5564472_17061462.pdf) |
-| 25   | Triturador de comida                                 | [InSinkErator Evolution 100 Waste Disposal Unit](./User_Manuals/ISE_FWD_InstallGuide_Sept20_1_Web.pdf) |
+| ID   | Descrição                                              | Link                                                         |
+| ---- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| 01   | Frigorífico                                            | [Bosch KIR81AFE0 Series 6](./User_Manuals/Frigorifico_Bosch_KIR81AFE0_Series_6/9001595475_A.pdf) |
+| 02   | Motor de Projector                                     | [TLMPL-1M](./User_Manuals/Motorized_Projector_Lift_User_Manual_Model_TLMPL-1M_TLMPL_1.5M.pdf) |
+| 03   | Forno                                                  | [Bosch_HBG675B.1](./User_Manuals/Forno_HBG675B.1/9001650191_C.pdf) |
+| 04   | Aspirador de Cozinha                                   | [Ritter_940610](./User_Manuals/Aspirador_Cozinha_940610_BedAnl_XX_Einbau-Sockelsauger-SES10-BVC10-0721-Internet.pdf) |
+| 05   | Gaveta de Aquecimento                                  | [Bosch_BIC630NS1](./User_Manuals/Gaveta_de_Aquecimento/9001280520_C.pdf) |
+| 06   | Microondas                                             | [Bosch BFR634GS1](./User_Manuals/Microondas/9001654577_G.pdf) |
+| 07   | Secadora de roupa                                      | [Bosch WTW87541 Series 8](./User_Manuals/Secadora/9001276303_A.pdf) |
+| 08   | TV Philips                                             | [TV Philips 50´´](./User_Manuals/TV_Philips/975e08d5d49d45e7a2d2afbf0079659c.pdf) |
+| 09   | TV Samsung                                             | [TV Philips 85´´](./User_Manuals/TV_Samsung/BN68-16813B-01_UM_Y23 QLED UHD QD_XC_L09_240605.0.pdf) |
+| 10   | Frigorífico para vinhos                                | [Wine Cooler WKM100S-2N](./User_Manuals/WKM Manual EN DE.pdf) |
+| 11   | Máquina Loiça                                          | [AEG FSE76727P](./User_Manuals/Máquina_Lavar_Loiça/117832391_UserManual_241123NRVM.pdf) |
+| 12   | Placa de Indução                                       | [Bosch PXX875D67E Series 8](./User_Manuals/Placa_Indução/9001685210_D.pdf) |
+| 13   | Máquina de gelo                                        | [Ice Maker EWBH356W-N](./User_Manuals/Ice_Maker/EN-OPERATION MANUAL-GGM.pdf) |
+| 14   | Máquina lavar roupa ((falta fazer download do manual)) | [Bosch Series 6](./User_Manuals/.pdf)                        |
+| 15   | Sirene de Alarme exterior                              | [Bosch Outdoor Siren](./User_Manuals/Bosch_Outdoor_Siren.pdf) |
+| 16   | Curtinas Motorizadas - Rails                           | [Abalon_Tracks](./User_Manuals/Abalon-User-Manual_24_baja.pdf) |
+| 17   | Aspirador de Casa e Jardim                             | [Bosch Advanced Vac 20](./User_Manuals/Aspirador_Garden_Bosch.pdf) |
+| 18   | Colunas Polk rc60i                                     | [Polk rc60i](./User_Manuals/Sound/rc60i-rc80i-rc85i-owners-manual-en.pdf) |
+| 19   | Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker   | [Arylic WBC65](./User_Manuals/Sound/WBC65_User_Manual_En_2021.pdf) |
+| 20   | Arylic RK30 Wall Mount Cube Speaker                    | [Arylic RK30](./User_Manuals/Sound/RK30_User_Manual_EN_ba0ac6e6-1dfb-402e-b83e-75f61161039b.pdf) |
+| 21   | Arylic Up2Stream Mini                                  | [Arylic Up2Stream Mini](./User_Manuals/Sound/Up2Stream_Mini_V3.0_Manual-en.pdf) |
+| 22   | Arylic Up2Stream Amp                                   | [Arylic Up2Stream Amp](./User_Manuals/Sound/Up2Stream_AMP_Mono_Manual-EN.pdf) |
+| 23   | Arylic A50+                                            | [Arylic A50+](./User_Manuals/Sound/A50_Manual_EN_20210821.pdf) |
+| 24   | Bomba circuladora                                      | [Alpha2 25-60 180](./User_Manuals/Grundfosliterature-5564472_17061462.pdf) |
+| 25   | Triturador de comida                                   | [InSinkErator Evolution 100 Waste Disposal Unit](./User_Manuals/ISE_FWD_InstallGuide_Sept20_1_Web.pdf) |
 
 
 
