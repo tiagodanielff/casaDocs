@@ -342,11 +342,27 @@ Dai o que é recomendável comprar é:
 
 8 Gu10 Hue Color - €85,12 (net) cada 3 - **€255**
 
-5 Gu 10 Hue Brancas - **€89,00** (net)
+Total: **255 euros** (net)
 
-Total: **344 euros** (net)
+### Iluminação do sotão
+
+A iluminação do sotão é composta por 3 grupos (G) de luzes e 2 candeeiros (C).
+
+<img src="./imagens/iluminacao/luzes_sotao.png" style="height:300px" />
+
+A fileira de interruptores no cimo da escada está configurada da seguinte forma:
+
+- o primeiro interruptor controla o C1 e o G1;
+- o segundo interruptor controla o G2 e o G3;
+- o terceiro interruptor controla o C2.
 
 
+
+As lâmpadas Gu10 nesta divisão são de várias marcas, conforme indicado abaixo:
+
+- As 2 lâmpadas do **Grupo 1** são lâmpadas genéricas (**Smart GU10**), coloridas com controlo Wi-fi;
+- As 6 lâmpadas do **Grupo 2** são lâmpadas **Govee** GU10 Coloridas, com controlo wi-fi;
+- As 4 lâmpadas do **Grupo 3** são lâmpadas **OSRAM Smart+** Spot Gu10 Tunable White, controlo ZigBee.
 
 
 
@@ -373,13 +389,19 @@ As tomadas eléctricas são na sua grande maioria convencionais, no entanto nos 
 | Corredor        |             |        |         |            |             |                    |                                       |
 | **Sotão**       | 8           | 1      | 2       |            | 2           | 1 em individual    |                                       |
 | **TOTAL**       | **72**      | **10** | **6**   | **1**      | **15**      | **9**              |                                       |
-|                 | 26          | 10     | 6       | 1          | 13          |                    |                                       |
+|                 | 54          | 10     | 6       | 1          | 13          |                    |                                       |
 
 
 
 As tomadas electricas a serem instaladas são da **BSEED E-Series**. Inicialmente foram instaladas algumas de outras marcas, mas a ideia é transferir tudo para a BSEED para ficar tudo consistente.
 
 
+
+Faltam 18 tomadas
+
+[Em packs de 4](https://www.amazon.es/-/pt/dp/B0CCVJM7XB/ref=sr_1_95?crid=ZR883GDHJKML&dib=eyJ2IjoiMSJ9.NHfIOeX_I5bS-4jgUaiEjAHTxNtqYKAk0M22hsTZ0yMbrixNEwVH8NpWZ33UyloJNDgddKEhfVv1Zj_nkBi8ZOQ_N3IlIWtBL4VjK3S_1uHApQu7H4LZPAe_SfTWBXlopNOHhgDZJyfbfHs-SN8MUzU1H6GeoYu6cCr2ubSnoE-yfmkmxg1fMCDVvgga6GMQsZ0YFFI3WGzFey1dZPxYyToEWX5NJQRcInaVkQrhVJFeS1p84nwkHKLWoJp8Pd3tBrPwTUuxXA4fNNbGMmTvPZIPyM9hYvx4AH0kb1HWlXI.ZssFpVib5HNICYJQ4nMCvfmasg7K-IrrlKGmPJy4CK0&dib_tag=se&keywords=bseed%2Be%2Bseries&qid=1748877927&sprefix=bseed%2Be%2Bseries%2Caps%2C108&sr=8-95&xpid=dZANnBJ9v7v1d&th=1) - €23,59 (faltam 4 packs e as outras 2 podem ser das que já tenho)
+
+Total: €94,36 (net)
 
 
 
@@ -621,12 +643,21 @@ Ainda pretendemos comprar um subwoofer embutido para tecto https://www.thomann.p
 
 ## Projector
 
-A passagem para o projector tem uma variedade de cablagem a passar:
+A passagem para o projector tem 2 cabos a passar:
 
-- 2 cabos HDMI
-- 1 Cabo SPIF
-- 1 Cabo Ethernet
+- 1 cabo HDMI (input)
 - 1 cabo de currente 220V
+
+O elevador do projector tanto pode ser controlado com o controlo remoto, como pode ser controlado com o controlo central que fica por baixo da TV.
+
+
+
+Tenho que procurar o melhor projector com as seguintes características:
+
+- 4K native
+- ceiling mount
+- android system
+- under $1000
 
 
 
