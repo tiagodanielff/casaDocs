@@ -346,7 +346,7 @@ Total: **255 euros** (net)
 
 ### Iluminação do sotão
 
-A iluminação do sotão é composta por 3 grupos (G) de luzes e 2 candeeiros (C). :p
+A iluminação do sotão é composta por 3 grupos (G) de luzes e 2 candeeiros (C).
 
 <img src="./imagens/iluminacao/luzes_sotao.png" style="height:300px" />
 
