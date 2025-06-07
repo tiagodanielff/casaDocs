@@ -747,6 +747,7 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 23   | Arylic A50+                                            | [Arylic A50+](./User_Manuals/Sound/A50_Manual_EN_20210821.pdf) |
 | 24   | Bomba circuladora                                      | [Alpha2 25-60 180](./User_Manuals/Grundfosliterature-5564472_17061462.pdf) |
 | 25   | Triturador de comida                                   | [InSinkErator Evolution 100 Waste Disposal Unit](./User_Manuals/ISE_FWD_InstallGuide_Sept20_1_Web.pdf) |
+| 26   | Armário Servidor                                       | [Digitus Branco](./User_Manuals/ArmarioServidor.pdf)         |
 
 
 
@@ -758,7 +759,7 @@ Neste capítulo declaram-se os diversos orçamentos que tivemos para os diferent
 
 | ID   | Descrição                                  | Link                                                         |
 | ---- | ------------------------------------------ | ------------------------------------------------------------ |
-| 01   | Orçamento para o banco                     | [Noxyster Group](./../Orcamento_Obras/Orcamento Oficial/22-029 ORÇ RITA PERALTA.pdf) |
+| 01   | Orçamento para o banco                     | [Noxyster Group](./Orçamentos/22-029 ORÇ RITA PERALTA.pdf)   |
 | 02   | Janelas Caixiterm [**escolhido**]          | [Caixiterm](./../Orcamento_Obras/Janelas/Caixiterm_v3_€15380,60.pdf) |
 | 03   | Janelas RCL                                | [RCL](./User_Manuals/Forno_HBG675B.1/RCL.pdf)                |
 | 04   | Cozinha JPMarques [**escolhido**]          | [JPMarques](./../Orcamento_Obras/Cozinha/JPMarques_Cozinhas_€11152,26.pdf) |
