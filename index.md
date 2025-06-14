@@ -218,17 +218,18 @@ O piso radiante eléctrico foi instalado somente no primeiro andar. Nos WCs foi 
 
 Os consumos esperados por divisão são os seguintes:
 
-| Divisão           | Área (m2) | Volume (m3) | Área do radiante (m2) | Potência (W) |
-| ----------------- | --------- | ----------- | --------------------- | ------------ |
-| WC Pequeno        | 5,44      | 14,69       | 2,45                  | 588          |
-| WC Grande         | 9,25      | 24,98       | 4,78                  | 1148         |
-| Lavandaria / Hall | 12,17     | 32,86       |                       |              |
-| Corredor          | 7,43      | 20,06       |                       |              |
-| Quarto RT         | 19,53     | 52,73       |                       |              |
-| Quarto Visitas    | 12,61     | 34,05       |                       |              |
-| Quarto G          | 13        | 35,1        |                       |              |
-| Quarto L          | 14,6      | 39,42       |                       |              |
-| **TOTAL**         | **94,03** | **253,88**  | **7,23**              | **1736**     |
+| Divisão        | Área (m2) | Volume (m3) | Área do radiante (m2) | Potência (W) |
+| -------------- | --------- | ----------- | --------------------- | ------------ |
+| WC Pequeno     | 5,44      | 14,69       | 2,45                  | 588          |
+| WC Grande      | 9,25      | 24,98       | 4,78                  | 1148         |
+| Hall           | 6,05      | 16,335      | 2,52                  | 607          |
+| Lavandaria     | 8,06      | 21,762      | 5,29                  | 1270         |
+| Corredor       | 7,43      | 20,06       |                       |              |
+| Quarto RT      | 19,53     | 52,73       |                       |              |
+| Quarto Visitas | 12,61     | 34,05       |                       |              |
+| Quarto G       | 13        | 35,1        |                       |              |
+| Quarto L       | 14,6      | 39,42       |                       |              |
+| **TOTAL**      | **95,97** | **259,127** | **15,04**             | **3613**     |
 
 ### Planta de instalação
 
@@ -748,6 +749,11 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 24   | Bomba circuladora                                      | [Alpha2 25-60 180](./User_Manuals/Grundfosliterature-5564472_17061462.pdf) |
 | 25   | Triturador de comida                                   | [InSinkErator Evolution 100 Waste Disposal Unit](./User_Manuals/ISE_FWD_InstallGuide_Sept20_1_Web.pdf) |
 | 26   | Armário Servidor                                       | [Digitus Branco](./User_Manuals/ArmarioServidor.pdf)         |
+| 27   | Currysmarter Smart Light Switch                        | [Currysmarter Light](./User_Manuals/Currysmarter Smart Light Switch.pdf) |
+| 28   | Currysmarter Smart Shutter Switch                      | [Currysmarter Curtain](./User_Manuals/Currysmarter Shutter Switch.pdf) |
+| 29   | Concealed_ceiling_curtain_user_manual                  | [Ceiling curtain projector](./User_Manuals/Concealed_ceiling_curtain_user_manual.pdf) |
+| 30   | BSeed Smart Socket & Switch                            | [BSeed Switch](./User_Manuals/BSeed_Smart_Socket&Switch.pdf) |
+|      |                                                        |                                                              |
 
 
 
@@ -760,19 +766,19 @@ Neste capítulo declaram-se os diversos orçamentos que tivemos para os diferent
 | ID   | Descrição                                  | Link                                                         |
 | ---- | ------------------------------------------ | ------------------------------------------------------------ |
 | 01   | Orçamento para o banco                     | [Noxyster Group](./Orçamentos/22-029 ORÇ RITA PERALTA.pdf)   |
-| 02   | Janelas Caixiterm [**escolhido**]          | [Caixiterm](./../Orcamento_Obras/Janelas/Caixiterm_v3_€15380,60.pdf) |
-| 03   | Janelas RCL                                | [RCL](./User_Manuals/Forno_HBG675B.1/RCL.pdf)                |
-| 04   | Cozinha JPMarques [**escolhido**]          | [JPMarques](./../Orcamento_Obras/Cozinha/JPMarques_Cozinhas_€11152,26.pdf) |
-| 05   | Cozinha Leroy Merlin                       | [Leroy Merlin Cozinha](./../Orcamento_Obras/Cozinha/Cozinha_Leroy_Merlin.pdf) |
-| 06   | Cozinha Pedrosas                           | [Pedrosa e Filhos](./../Orcamento_Obras/Cozinha/PedrosaeFilhos_Raw_D_€9795,00.pdf) |
-| 07   | Guarda-corpos Artimira [**escolhido**]     | [Artimira](./../Orcamento_Obras/Guarda-Corpos/Orcamento ORC_25_91.pdf) |
-| 08   | Guarda-corpos Vidraria Central do Porto    | [Vidraria Central do Porto](./../Orcamento_Obras/Guarda-Corpos/Vidraria_Central_do_Porto_2025_165.pdf) |
-| 09   | Portas e Chão Beira Portal [**escolhido**] | [Beira Portal](./../Orcamento_Obras/Portas/BeiraPortal_€8678,02.pdf) |
-| 10   | Portas Covema                              | [Covema](./../Orcamento_Obras/Portas/Orçamento Portas Covema.pdf) |
-| 11   | Portas Bruno Miguel Pedrosa                | [Bruno Miguel Pedrosa](./../Orcamento_Obras/Portas/Bruno Miguel Pedrosa.pdf) |
-| 12   | Portas Pedrosa e Filhos                    | [Pedrosa e Filhos](./../Orcamento_Obras/Portas/PedrosaeFilhos.pdf) |
-| 13   | Climatização Electroclima                  | [Electroclima](./../Orcamento_Obras/Climatização/Electroclima.pdf) |
-| 14   | Caleiras                                   | [MetalCaleira](./../Orcamento_Obras/Caleiras_€750+IVA.pdf)   |
+| 02   | Janelas Caixiterm [**escolhido**]          | [Caixiterm](./Orçamentos/Caixiterm_v3_€15380,60.pdf)         |
+| 03   | Janelas RCL                                | [RCL](./Orçamentos/RCL.pdf)                                  |
+| 04   | Cozinha JPMarques [**escolhido**]          | [JPMarques](./Orçamentos/JPMarques_Cozinhas_€11152,26.pdf)   |
+| 05   | Cozinha Leroy Merlin                       | [Leroy Merlin Cozinha](./Orçamentos/Cozinha_Leroy_Merlin.pdf) |
+| 06   | Cozinha Pedrosas                           | [Pedrosa e Filhos](./Orçamentos/PedrosaeFilhos_Raw_D_€9795,00.pdf) |
+| 07   | Guarda-corpos Artimira [**escolhido**]     | [Artimira](./Orçamentos/Orcamento ORC_25_91.pdf)             |
+| 08   | Guarda-corpos Vidraria Central do Porto    | [Vidraria Central do Porto](./Orçamentos/Vidraria_Central_do_Porto_2025_165.pdf) |
+| 09   | Portas e Chão Beira Portal [**escolhido**] | [Beira Portal](./Orçamentos/BeiraPortal_€8678,02.pdf)        |
+| 10   | Portas Covema                              | [Covema](./Orçamentos/Orçamento Portas Covema.pdf)           |
+| 11   | Portas Bruno Miguel Pedrosa                | [Bruno Miguel Pedrosa](./Orçamentos/Bruno Miguel Pedrosa.pdf) |
+| 12   | Portas Pedrosa e Filhos                    | [Pedrosa e Filhos](./Orçamentos/PedrosaeFilhos.pdf)          |
+| 13   | Climatização Electroclima                  | [Electroclima](./Orçamentos/Electroclima.pdf)                |
+| 14   | Caleiras                                   | [MetalCaleira](./Orçamentos/Caleiras_€750+IVA.pdf)           |
 | 15   |                                            |                                                              |
 
 
