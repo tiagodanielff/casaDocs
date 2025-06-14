@@ -228,8 +228,8 @@ Os consumos esperados por divisão são os seguintes:
 | Quarto RT      | 19,53     | 52,73       |                       |              |
 | Quarto Visitas | 12,61     | 34,05       |                       |              |
 | Quarto G       | 13        | 35,1        |                       |              |
-| Quarto L       | 14,6      | 39,42       |                       |              |
-| **TOTAL**      | **95,97** | **259,127** | **15,04**             | **3613**     |
+| Quarto L       | 14,6      | 39,42       | 8,68                  | 2083         |
+| **TOTAL**      | **95,97** | **259,127** | **15,04**             | **5696**     |
 
 ### Planta de instalação
 
@@ -243,9 +243,17 @@ As plantas de instalação por divisão são mencionadas de seguida.
 
 <img src="./HeatingFilm_Maps/HeatingFilm_WCG.png" style="height:300px" />
 
-#### Lavandaria / Hall
+#### Hall
 
+<img src="./HeatingFilm_Maps/HeatingFilm_Hall_Escadas.png" style="height:300px" />
 
+O radiante no hall não ficou ligado, portanto não funciona.
+
+asd -adasdas
+
+#### Lavandaria
+
+<img src="./HeatingFilm_Maps/HeatingFilm_Lavandaria.png" style="height:300px" />
 
 #### Corredor
 
@@ -265,7 +273,7 @@ As plantas de instalação por divisão são mencionadas de seguida.
 
 #### Quarto L
 
-
+<img src="./HeatingFilm_Maps/HeatingFilm_QuartoL.png" style="height:300px" />
 
 ## Ar codicionado
 
@@ -717,6 +725,18 @@ Temos ainda 7 buracos na bancada, com as seguintes especificações.
 
 
 
+# Exteriores
+
+## Pavimentos
+
+O pavimento da entrada da casa é da Macel com referência 204/5.
+
+O pavimento do terraço traseiro é da AMOP.
+
+
+
+
+
 # Manuais de instruções
 
 O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de instruções dos diversos dispositivos e elementos da casa. Abaixo segue uma lista com os diversos documentos.
@@ -779,7 +799,9 @@ Neste capítulo declaram-se os diversos orçamentos que tivemos para os diferent
 | 12   | Portas Pedrosa e Filhos                    | [Pedrosa e Filhos](./Orçamentos/PedrosaeFilhos.pdf)          |
 | 13   | Climatização Electroclima                  | [Electroclima](./Orçamentos/Electroclima.pdf)                |
 | 14   | Caleiras                                   | [MetalCaleira](./Orçamentos/Caleiras_€750+IVA.pdf)           |
-| 15   |                                            |                                                              |
+| 15   | Portas Beira Portal                        | [BeiraPortal](./Orçamentos/BeiraPortal_Portas.pdf)           |
+| 16   | Chão Beira Portal                          | [BeiraPortal](./Orçamentos/BeiraPortal_Chão.pdf)             |
+|      |                                            |                                                              |
 
 
 
