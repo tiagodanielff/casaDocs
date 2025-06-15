@@ -569,7 +569,11 @@ Existem ligações de rede RJ45 em todos os quartos assim como no rés-de-chão 
 
 ## Sinal de televisão
 
-A casa está equipada com distribuidore de sinal de TV nos 3 pisos. O sinal é adquirido a partir do router central de comunicações e ainda através de antena parabólica instalada no telhado.
+A casa está equipada com distribuidore de sinal de TV nos 3 pisos. O sinal é adquirido a partir do router central de comunicações e ainda através de antenas parabólicas instaladas no telhado, que têm cobertura para o Hispasat, Hotbird e Astra. O sinal do Hispasat é recepcionado através de uma *flat* antena, enquanto o sinal do Astra e do Hotbird são recepcionados por uma antena circular de 110cm de diâmetro, com LNB duplo, para captura de sinal dos dois satélites.
+
+O diagrama de ligações para a televisão por satélite é o seguinte:
+
+<img src="./Diagramas/10Agosto_NetworkDiagram.drawio.svg" style="height:600px" />
 
 
 
