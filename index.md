@@ -1,4 +1,4 @@
-# Áreas aaa
+# Áreas
 
 
 ## Interiores
