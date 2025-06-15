@@ -249,7 +249,7 @@ As plantas de instalação por divisão são mencionadas de seguida.
 
 O radiante no hall não ficou ligado, portanto não funciona.
 
-asd -adasdas
+
 
 #### Lavandaria
 
@@ -309,25 +309,25 @@ A iluminação é feita com focus GU10 da Philips Hue, fitas LED também da Phil
 
 O resumo da iluminação nas diversas áreas da casa é resumido abaixo.
 
-| Divisão            | Focus  | Candeeiros | Fitas de LED (ML) |
-| ------------------ | ------ | ---------- | ----------------- |
-| **Rés de Chão**    |        |            |                   |
-| WC                 | 3      |            | 2                 |
-| Hall               | 3      |            |                   |
-| Cozinha            | 7      | 1          | 11,66             |
-| Sala               | 20     | 2          | 21,58 + 24,62     |
-| **Hall / Escadas** | 5      | 1          |                   |
-| **1º Andar**       |        |            |                   |
-| Quarto RT          | 8      |            |                   |
-| Quarto Visitas     | 6      |            |                   |
-| WC Pequeno         | 4      |            |                   |
-| Lavandaria         | 7      |            |                   |
-| Quarto L           | 6      |            |                   |
-| WC Grande          | 4      |            |                   |
-| Quarto G           | 6      |            |                   |
-| Corredor           | 4      |            |                   |
-| **Sotão**          | 10     | 2          |                   |
-| **TOTAL**          | **93** | **6**      | **58**            |
+| Divisão            | Focus  | Candeeiros | Fitas de LED (ML)                                            |
+| ------------------ | ------ | ---------- | ------------------------------------------------------------ |
+| **Rés de Chão**    |        |            |                                                              |
+| WC                 | 3      |            | 2 (no nicho e por baixo do móvel)                            |
+| Hall               | 3      |            |                                                              |
+| Cozinha            | 7      | 1          | 11,66 (faltam as 2 fitas por baixo da bancada da cozinha e por baixo dos moveis superiores) |
+| Sala               | 20     | 2          | 21,58 + 24,62 (faltam as 3 fitas do nicho da lareira)        |
+| **Hall / Escadas** | 5      | 1          | Fita led para nicho no meio das escadas                      |
+| **1º Andar**       |        |            |                                                              |
+| Quarto RT          | 8      |            |                                                              |
+| Quarto Visitas     | 6      |            |                                                              |
+| WC Pequeno         | 4      |            | fita no tecto                                                |
+| Lavandaria         | 7      |            |                                                              |
+| Quarto L           | 6      |            |                                                              |
+| WC Grande          | 4      |            | fita no tecto                                                |
+| Quarto G           | 6      |            |                                                              |
+| Corredor           | 4      |            |                                                              |
+| **Sotão**          | 10     | 2          | 30 (no rodapé)                                               |
+| **TOTAL**          | **93** | **6**      | **58**                                                       |
 
 De momento tenho os seguinte productos comprados:
 
@@ -772,7 +772,7 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 27   | Currysmarter Smart Light Switch                        | [Currysmarter Light](./User_Manuals/Currysmarter Smart Light Switch.pdf) |
 | 28   | Currysmarter Smart Shutter Switch                      | [Currysmarter Curtain](./User_Manuals/Currysmarter Shutter Switch.pdf) |
 | 29   | Concealed_ceiling_curtain_user_manual                  | [Ceiling curtain projector](./User_Manuals/Concealed_ceiling_curtain_user_manual.pdf) |
-| 30   | BSeed Smart Socket & Switch                            | [BSeed Switch](./User_Manuals/BSeed_Smart_Socket&Switch.pdf) |
+| 30   | BSeed Smart Socket & Switch                            | [BSeed Switch](./User_Manuals/BSeed_Smart_Socket_Switch.pdf) |
 |      |                                                        |                                                              |
 
 
