@@ -587,6 +587,8 @@ A casa está equipada com uma antena e  amplificador de sinal 5G, visto a casa t
 
 <img src="./Diagramas/10Agosto_Diagrama_5G.drawio.svg" style="height:600px" />
 
+
+
 ## Plantas de telecomunicações
 
 ### Esquema de ligações ATI
