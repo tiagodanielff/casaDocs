@@ -565,6 +565,10 @@ O vídeo-porteiro tem um elemento de comuniação no exterior da casa, que permi
 
 Existem ligações de rede RJ45 em todos os quartos assim como no rés-de-chão e 2º andar. Além das mesmas, existe ainda router-switches que fazem a distribuição da rede nos 3 pisos. As mesmas são capacitadas de tecnologia PoE (Power over Ethernet) que permite não só comunicar com os dispositivos, assim como os permite carregar em baixa potência.
 
+O diagrama principal de ligações de rede é o seguinte:
+
+<img src="./Diagramas/10Agosto_DiagramaDeRede.drawio.png" style="height:600px" />
+
 
 
 ## Sinal de televisão
@@ -573,7 +577,7 @@ A casa está equipada com distribuidore de sinal de TV nos 3 pisos. O sinal é a
 
 O diagrama de ligações para a televisão por satélite é o seguinte:
 
-<img src="./Diagramas/10Agosto_NetworkDiagram.drawio.svg" style="height:600px" />
+<img src="./Diagramas/10Agosto_SatDiagram.drawio.svg" style="height:600px" />
 
 
 
