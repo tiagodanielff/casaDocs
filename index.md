@@ -581,6 +581,12 @@ O diagrama de ligações para a televisão por satélite é o seguinte:
 
 
 
+## Amplificador 5G
+
+A casa está equipada com uma antena e  amplificador de sinal 5G, visto a casa ter paredes muito grossas que diminuem a força do sinal, que por si já é bastante fraca na rua. O amplificador distribui distribui rede 5G para todos os andares. O diagrama de ligações é apresentado de seguida.
+
+<img src="./Diagramas/10Agosto_Diagrama_5G.drawio.svg" style="height:600px" />
+
 ## Plantas de telecomunicações
 
 ### Esquema de ligações ATI
