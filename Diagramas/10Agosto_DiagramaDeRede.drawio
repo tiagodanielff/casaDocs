@@ -91,7 +91,7 @@
         <mxCell id="RoJZF_lfuLX9VoPgib2L-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RoJZF_lfuLX9VoPgib2L-185" target="RoJZF_lfuLX9VoPgib2L-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RoJZF_lfuLX9VoPgib2L-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoJZF_lfuLX9VoPgib2L-185" target="RoJZF_lfuLX9VoPgib2L-190">
+        <mxCell id="RoJZF_lfuLX9VoPgib2L-189" value="Fibra" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoJZF_lfuLX9VoPgib2L-185" target="RoJZF_lfuLX9VoPgib2L-190">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RoJZF_lfuLX9VoPgib2L-185" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
@@ -120,11 +120,27 @@
         <mxCell id="RoJZF_lfuLX9VoPgib2L-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.969;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RoJZF_lfuLX9VoPgib2L-193" target="RoJZF_lfuLX9VoPgib2L-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RoJZF_lfuLX9VoPgib2L-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoJZF_lfuLX9VoPgib2L-193" target="RoJZF_lfuLX9VoPgib2L-207">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="880" />
+              <mxPoint x="1357" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoJZF_lfuLX9VoPgib2L-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RoJZF_lfuLX9VoPgib2L-193" target="RoJZF_lfuLX9VoPgib2L-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="890" />
+              <mxPoint x="1462" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RoJZF_lfuLX9VoPgib2L-193" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_48_port_L3.svg;" vertex="1" parent="1">
           <mxGeometry x="711" y="933.6" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="RoJZF_lfuLX9VoPgib2L-196" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="880" y="971.4" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="972.4" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RoJZF_lfuLX9VoPgib2L-195" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RoJZF_lfuLX9VoPgib2L-196">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -161,6 +177,12 @@
         </mxCell>
         <mxCell id="RoJZF_lfuLX9VoPgib2L-215" value="&lt;font style=&quot;color: rgb(0, 0, 153);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;sala máquinas&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1407.36" y="898" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RoJZF_lfuLX9VoPgib2L-216" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1422.3600000000001" y="948" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoJZF_lfuLX9VoPgib2L-217" value="&lt;b&gt;Router&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1412.36" y="1034.4" width="100" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
