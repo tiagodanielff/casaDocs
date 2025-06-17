@@ -52,21 +52,20 @@ As áreas exteriores da casa são dispostas da seguinte forma:
 
 ### Portas
 
-| ID   | Zona | Descrição              | Modelo                          | Largura (cm) | Abertura | Espessura da parede (cm) | Comentários |
-| ---- | ---- | ---------------------- | ------------------------------- | ------------ | -------- | ------------------------ | ----------- |
-| 1    | R/C  | Porta Sala (Dupla)     | Pantografado AP1                | 160          | Direita  | 13                       | Com chave   |
-| 2    | R/C  | Porta WC               | Pantografado DP                 | 80           | Esquerda | 23                       | On/Off WC   |
-| 3    | R/C  | Sala das Máquinas      | Correr por fora Pantografado DP | 80           | Direita  | 13                       | Com chave   |
-| 4    | 1º   | Lavandaria             | Pantografado DP                 | 70           | Esquerda | 13                       | Com chave   |
-| 5    | 1º   | WC L                   | Pantografado DP                 | 80           | Direita  | 13                       | On/Off WC   |
-| 6    | 1º   | Closet                 | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
-| 7    | 1º   | Quarto RT              | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
-| 8    | 1º   | Quarto G               | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
-| 9    | 1º   | WC Grande              | Pantografado DP                 | 80           | Esquerda | 13                       | On/Off WC   |
-| 10   | 1º   | Quarto L               | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
-| 11   | 1º   | Escadas Sotão          | Pantografado DP                 | 80           | Esquerda | 13                       | Com Chave   |
-| 12   | 1º   | Despensa               | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
-| 13   | 1º   | Debaixo das escadas 2o | Pantografado DP                 | 70           | Direita  | 13                       | Com chave   |
+| ID   | Zona | Descrição          | Modelo                          | Largura (cm) | Abertura | Espessura da parede (cm) | Comentários |
+| ---- | ---- | ------------------ | ------------------------------- | ------------ | -------- | ------------------------ | ----------- |
+| 1    | R/C  | Porta Sala (Dupla) | Pantografado AP1                | 160          | Direita  | 13                       | Com chave   |
+| 2    | R/C  | Porta WC           | Pantografado DP                 | 80           | Esquerda | 23                       | On/Off WC   |
+| 3    | R/C  | Sala das Máquinas  | Correr por fora Pantografado DP | 80           | Direita  | 13                       | Com chave   |
+| 4    | 1º   | Lavandaria         | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
+| 5    | 1º   | WC L               | Pantografado DP                 | 80           | Esquerda | 13                       | On/Off WC   |
+| 6    | 1º   | Closet             | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
+| 7    | 1º   | Quarto RT          | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
+| 8    | 1º   | Quarto G           | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
+| 9    | 1º   | WC Grande          | Pantografado DP                 | 80           | Esquerda | 13                       | On/Off WC   |
+| 10   | 1º   | Quarto L           | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
+| 11   | 1º   | Escadas Sotão      | Pantografado DP                 | 80           | Esquerda | 13                       | Com Chave   |
+| 12   | 1º   | Despensa           | Pantografado DP                 | 80           | Direita  | 10                       | Com chave   |
 
 Todas as portas tem puxadores **Tupai 4007 5S** na cor 158 (**purist brass**).
 
@@ -818,6 +817,12 @@ Neste capítulo declaram-se os diversos orçamentos que tivemos para os diferent
 | 15   | Portas Beira Portal                        | [BeiraPortal](./Orçamentos/BeiraPortal_Portas.pdf)           |
 | 16   | Chão Beira Portal                          | [BeiraPortal](./Orçamentos/BeiraPortal_Chão.pdf)             |
 |      |                                            |                                                              |
+
+
+
+# Arquitectura
+
+A planta de arquitectura em formato DWG pode ser descarregada através do seguinte [link](./Arquitectura/10_23_MU_10A_R04-obra.dwg).
 
 
 
