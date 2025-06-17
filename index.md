@@ -246,7 +246,7 @@ As plantas de instalação por divisão são mencionadas de seguida.
 
 <img src="./HeatingFilm_Maps/HeatingFilm_Hall_Escadas.png" style="height:300px" />
 
-O radiante no hall não ficou ligado, portanto não funciona.
+O radiante no hall não ficou ligado, portanto **não** funciona.
 
 
 
@@ -256,7 +256,9 @@ O radiante no hall não ficou ligado, portanto não funciona.
 
 #### Corredor
 
+<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:100px" />
 
+<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:3000px" />
 
 #### Quarto RT
 
