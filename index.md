@@ -57,13 +57,13 @@ As áreas exteriores da casa são dispostas da seguinte forma:
 | 1    | R/C  | Porta Sala (Dupla) | Pantografado AP1                | 160          | Direita  | 13                       | Com chave   |
 | 2    | R/C  | Porta WC           | Pantografado DP                 | 80           | Esquerda | 23                       | On/Off WC   |
 | 3    | R/C  | Sala das Máquinas  | Correr por fora Pantografado DP | 80           | Direita  | 13                       | Com chave   |
-| 4    | 1º   | Lavandaria         | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
+| 4    | 1º   | Lavandaria         | Pantografado DP                 | 80           | Esquerda | 14                       | Com chave   |
 | 5    | 1º   | WC L               | Pantografado DP                 | 80           | Esquerda | 13                       | On/Off WC   |
-| 6    | 1º   | Closet             | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
-| 7    | 1º   | Quarto RT          | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
-| 8    | 1º   | Quarto G           | Pantografado DP                 | 80           | Esquerda | 13                       | Com chave   |
-| 9    | 1º   | WC Grande          | Pantografado DP                 | 80           | Esquerda | 13                       | On/Off WC   |
-| 10   | 1º   | Quarto L           | Pantografado DP                 | 80           | Direita  | 13                       | Com chave   |
+| 6    | 1º   | Quarto Conv.       | Pantografado DP                 | 80           | Direita  | 11                       | Com chave   |
+| 7    | 1º   | Quarto RT          | Pantografado DP                 | 80           | Esquerda | 10                       | Com chave   |
+| 8    | 1º   | Quarto G           | Pantografado DP                 | 80           | Esquerda | 12                       | Com chave   |
+| 9    | 1º   | WC Grande          | Pantografado DP                 | 80           | Esquerda | 12                       | On/Off WC   |
+| 10   | 1º   | Quarto L           | Pantografado DP                 | 80           | Direita  | 11                       | Com chave   |
 | 11   | 1º   | Escadas Sotão      | Pantografado DP                 | 80           | Esquerda | 13                       | Com Chave   |
 | 12   | 1º   | Despensa           | Pantografado DP                 | 80           | Direita  | 10                       | Com chave   |
 
@@ -256,9 +256,9 @@ O radiante no hall não ficou ligado, portanto **não** funciona.
 
 #### Corredor
 
-<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:100px" />
+<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:300px" />
 
-<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:3000px" />
+
 
 #### Quarto RT
 
