@@ -187,6 +187,44 @@ As medidas são detalhadas abaixo.
 
 
 
+# Pintura
+
+## Pintura Interior
+
+A pintura interior foi feita em geral com tinta Robbialac Clean & Go, cor branca Mate.
+
+### Casas de Banho
+
+A excepção deu-se nas casas de banho, em que foi usada tinta para a humidade Rabbiotel (também da Robbialac), com cores distintas por divisão.
+
+#### Casa de Banho Grande 1º andar
+
+A casa de banho de maior área no primeiro andar, foi pintada de verde para contrastar com os detalhes em dourado dos demais artefactos.
+
+A cor escolhida para esta casa de banho está detalhada na imagem abaixo.
+
+<img src="./imagens/pintura/WC_Verde_Big.png" style="height:250px" />
+
+
+
+#### Casa de Banho Pequena 1º andar
+
+A casa de banho de menor área no primeiro andar foi pintada de creme, a fim de contrastar com os demais detalhes em rosa dourado. Os detalhes da cor escolhida para esta casa de banho estão indicados abaixo.
+
+<img src="./imagens/pintura/WC_Creme_Small.png" style="height:250px" />
+
+#### Casa de Banho Rés-de-chão
+
+A casa de banho do Rés-de-chão foi pintada em cinzento para contrastar com os apontamentos em preto das restantes instalações sanitárias (excluindo a sanita). Os detalhes da cor apresentam-se abaixo.
+
+<img src="./imagens/pintura/WC_Cinza_RC.png" style="height:200px" />
+
+
+
+## Pintura Exterior
+
+
+
 
 
 # Aquecimento
@@ -270,7 +308,7 @@ O radiante no hall não ficou ligado, portanto **não** funciona.
 
 #### Quarto G
 
-
+<img src="./HeatingFilm_Maps/QuartoG.png" style="height:300px" />
 
 #### Quarto L
 
@@ -327,8 +365,8 @@ O resumo da iluminação nas diversas áreas da casa é resumido abaixo.
 | WC Grande          | 4      |            | fita no tecto                                                |
 | Quarto G           | 6      |            |                                                              |
 | Corredor           | 4      |            |                                                              |
-| **Sotão**          | 10     | 2          | 30 (no rodapé)                                               |
-| **TOTAL**          | **93** | **6**      | **58**                                                       |
+| **Sotão**          | 12     | 2          | 30 (no rodapé)                                               |
+| **TOTAL**          | **95** | **6**      | **58**                                                       |
 
 De momento tenho os seguinte productos comprados:
 
@@ -669,6 +707,8 @@ Ainda pretendemos comprar um subwoofer embutido para tecto https://www.thomann.p
 
 ## Projector
 
+O projector é um Acer X1827, com 4000 lúmenes ANSI DLP 4K branco.
+
 A passagem para o projector tem 2 cabos a passar:
 
 - 1 cabo HDMI (input)
@@ -748,9 +788,33 @@ Temos ainda 7 buracos na bancada, com as seguintes especificações.
 
 O pavimento da entrada da casa é da Macel com referência 204/5.
 
-O pavimento do terraço traseiro é da AMOP.
 
 
+## Relva sintética
+
+O páteo tem relva sintetica.
+
+
+
+## Árvores
+
+A árvore central é um Carvalho americano, que foi comprado a 13 de Julho de 2025, com cerca de 5 metros de altura.
+
+
+
+## Churrasqueira
+
+### Telhado
+
+O telhado da churrasqueira é composto por uma camada de forro branco, que tem XPS em cima e telhas Coelho da Silva Marselha Primus.
+
+### Forno
+
+O Forno encontrasse enterrado por trás da churrasqueira com medidas de 90x90.
+
+### Churrasqueira
+
+A churrasqueira tem medidas interiores de 85cm, com chaminé. A altura do tecto até ao chão no local da churrasqueira é de 3,30m.
 
 
 
@@ -790,7 +854,7 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 28   | Currysmarter Smart Shutter Switch                      | [Currysmarter Curtain](./User_Manuals/Currysmarter Shutter Switch.pdf) |
 | 29   | Concealed_ceiling_curtain_user_manual                  | [Ceiling curtain projector](./User_Manuals/Concealed_ceiling_curtain_user_manual.pdf) |
 | 30   | BSeed Smart Socket & Switch                            | [BSeed Switch](./User_Manuals/BSeed_Smart_Socket_Switch.pdf) |
-|      |                                                        |                                                              |
+| 31   | Projector Acer X1827                                   | [Acer X1827](./User_Manuals/User Manual_Acer_1.0_A_A.pdf)    |
 
 
 
