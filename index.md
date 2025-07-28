@@ -223,6 +223,18 @@ A casa de banho do Rés-de-chão foi pintada em cinzento para contrastar com os 
 
 ## Pintura Exterior
 
+O primário usado na casa (excluindo a extensão da casa feita em capoto) foi o Robbialac Armadura Consolidante NG.
+
+Na parte do capoto foi o Viero da Robbialac.
+
+
+
+A tinta de cor salmão da casa é da Robbialac e tem a seguinte referência: **CRF 037-1**
+
+Para a pintura usou-se a tinta Robbialac Aquarepel.
+
+A mesma tinta em cor branca foi usada
+
 
 
 
@@ -294,13 +306,13 @@ O radiante no hall não ficou ligado, portanto **não** funciona.
 
 #### Corredor
 
-<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:300px" />
+<img src="./HeatingFilm_Maps/HeatingFilm_Corredor.png" style="height:180px" />
 
 
 
 #### Quarto RT
 
-
+<img src="./HeatingFilm_Maps/QuartoRT.png" style="height:400px" />
 
 #### Quarto Visitas
 
@@ -798,7 +810,11 @@ O páteo tem relva sintetica.
 
 ## Árvores
 
-A árvore central é um Carvalho americano, que foi comprado a 13 de Julho de 2025, com cerca de 5 metros de altura.
+A árvore central é uma Cerejeira Japonesa de flor branca, comprada a 27 de Julho de 2025, já com cerca de 4 metros de altura. O nome cientifico da árvore é "Prunus Avium 'Pleana'" com código PAP 20/25.
+
+As plantas da entrada, junto ao arco da porta principal são Buxus Bola, comprados com 35/40cm.
+
+Compramos também um Carvalho americano "Quercus Coccinea ou Rubra???", a 13 de Julho de 2025, com cerca de 5 metros de altura.
 
 
 
