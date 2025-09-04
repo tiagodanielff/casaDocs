@@ -129,7 +129,7 @@ Em todo o perimetro do sub-piso foi ainda criada uma rede de drenos que permite 
 
 ## Placa do 1º andar
 
-A placa existente do 1º andar foi mantida, no entanto esta apresentava desnivelamentos. Os mesmos foram corrigidos com camadas de cimento de 1 a 5 cm de altura ao longo do piso. Nos WCs foi instalada o aquecimento radiante hidráulico antes da correção do piso, enquanto nas restantes divisões foi dado o desconto da mesma para posterior aplicação enquanto sub-piso antes do acabamento final (flutuante hidrofugo da FINSA - Herringbone Dijon).
+A placa existente do 1º andar foi mantida, no entanto esta apresentava desnivelamentos. Os mesmos foram corrigidos com camadas de cimento de 1 a 5 cm de altura ao longo do piso. Nos WCs foi instalada o aquecimento radiante hidráulico antes da correção do piso, enquanto nas restantes divisões foi dado o desconto da mesma para posterior aplicação enquanto sub-piso antes do acabamento final (flutuante hidrofugo da **FINSA - Herringbone Dijon**).
 
 
 
@@ -155,17 +155,15 @@ O 2º andar era composto por chão de madeira de pinho. Todo o piso da parte hab
 
 No sotão foi instalado pladur hidrofugo em todo o perímetro, com lã de rocha de 128mm com revestimento de alumínio na face que confronta com o telhado. Nas zonas rebaixadas, foi instalado XPS em vez de lã de rocha, para melhor isolamento.
 
-
-
 No 1º andar, as paredes são de tijolo, aparte da parede que separa o WC grande com o quarto sul. Esta foi construida do lado do WC com pladur hidrofogo, e do lado do quarto com pladur acústico. Também foram construídas 2 paredes de pladur junto às de tijolo já existentes para reforço acústico. Uma delas foi construida no quarto sul poente, na fronteira o quarto sul nascente. A outra foi construida no quarto poente, para o lado do quarto sul poente.
 
 Os tectos do primeiro andar são de pladur standard, com lã de rocha de 160mm.
 
-
-
 No rés de chão, foi instalado pladur hidrofogo em todo o perimetro da sala/cozinha, tendo por trás Boltherm termo-acústico. A parede norte tem Aquapanel, que em vez de ser de pladur é feita de fibras e cimento. Essa parede foi ainda toda revestida a XPS e feita uma parede de frente, para deixar caixa de ar. O WC foi construido no interior com pladur hidrofugo, e no exterior com pladur acústico, assim como o hall de entrada que também tem pladur acústico.
 
 Os tectos foram feitos com pladur standard, reforçados com lã de rocha de 200mm.
+
+Todo 
 
 
 
