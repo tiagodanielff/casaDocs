@@ -326,9 +326,25 @@ O radiante no hall não ficou ligado, portanto **não** funciona.
 
 <img src="./HeatingFilm_Maps/HeatingFilm_QuartoL.png" style="height:300px" />
 
-## Ar codicionado
+## Ar condicionado
 
 O ar condicionado foi projectado para o 2º andar, visto ter necessidades não só de aquecimento mas também de arrefecimento mais complexo, devido à excessiva exposição solar e protecção térmica mais ténue.
+
+
+
+## Recuperador de calor
+
+O recuperador de calor da sala (com ventilação para a área das escadas) tem as seguintes caracteristicas:
+
+Modelo: Recuperador Ventilado Panadero C-820-S
+
+Certificação energética:
+
+<img src="./imagens/Lareira/Panadero_C-820-S.png" style="height:200px" />
+
+
+
+
 
 
 
@@ -472,6 +488,8 @@ Total: €94,36 (net)
 A entreda de águas na casa, conta com um filtro de osmose inversa, assim como um filtro descalcificador. O filtro de **osmose inversa** requer uma manutenção de periocidade **anual**, enquanto o **filtro descalcificador** tem um tempo de vida de **7 a 8 anos**.
 
 Em conformidade com as especialidades, a casa tem um **circuito de re-circulação** da água, que permite em meros segundos ter água quente em qualquer ponto da casa.
+
+O filtro de osmose tem uma lampada Ultra Violeta que periodacamente terá que ser substituída. A referência da lâmpada é a "Purion UV-Lampe 17W 200 00300 0000".
 
 
 
@@ -686,7 +704,7 @@ A casa está equipada com uma antena e  amplificador de sinal 5G, visto a casa t
 * [Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker](https://www.arylic.com/products/wbc65-wireless-multiroom-ceiling-speaker?srsltid=AfmBOopcj0rjAXRYJQ394_a2A20IxdsHC0oVoDj_Q17Komyj0TB1I0kT) × **8** (Master + Slave)
 * [Arylic WBC65 6.5" Wireless Multiroom Ceiling Speaker](https://www.arylic.com/products/wbc65-wireless-multiroom-ceiling-speaker?srsltid=AfmBOopcj0rjAXRYJQ394_a2A20IxdsHC0oVoDj_Q17Komyj0TB1I0kT) × **4** (mono)
 * [Arylic RK30 Wall Mount Cube Speaker](https://www.arylic.com/products/wall-mount-speaker-rk30?srsltid=AfmBOoodY9McK-6ItLS3NItCWxfwFgm1-vUEHkhBiKlJfZ44wsccyRyU) (pair) × **3**
-* [Polk Audio RC60i ](https://www.polkaudio.com/product/built-in-speakers/in-ceiling/rc60i/112720.html) (pair) x **2**
+* [Polk Audio RC60i ](https://www.polkaudio.com/product/built-in-speakers/in-ceiling/rc60i/112720.html) (pair) x **3**
 * [Arylic Up2Stream Mini](https://www.arylic.com/products/up2stream-mini-receiver-board?srsltid=AfmBOorydGVmRCdsU5sjFc7m5MKgzuKYR7OrSXC_Ry9KvWl1pAiWD6fr) - Multiroom Wi-Fi Streamer Board (No Amp) × **5**
 * [Arylic Up2Stream Amp](https://www.arylic.com/products/up2stream-amp-2-1-amp-board?srsltid=AfmBOoqahP8uDdpB2PI2MOlTRf3R713Ya90pfDc3ugkPranYpeO8uJiK) - Multiroom Wireless Streaming Stereo Amplifier Board × **7**
 * [Arylic A50+ 50W x 2 Streaming Amplifier](https://www.arylic.com/products/arylic-a50-wifi-bluetooth-multiroom-full-digital-hifi-amplifier-with-airplay-dlna-multiroom-control?srsltid=AfmBOopGjMy7WEGoaNOjEWfPF0P6irflQqP_3_EEECzyXCtTHkDkNSLk) × **1**
@@ -694,6 +712,14 @@ A casa está equipada com uma antena e  amplificador de sinal 5G, visto a casa t
 Nota: As colunas Arylic RK30 precisam de um amplificador. O aconselhado para cada par de colunas é [A30+ 30W x 2 WiFi Mini Stereo Amplifier](https://www.arylic.com/products/a30-wireless-amplifier?srsltid=AfmBOop9eoESdIk50I_N6rZxGnuv54OL7SghNEA_Bnm5ShlCa1kOaz7Z).
 
 Ainda pretendemos comprar um subwoofer embutido para tecto https://www.thomann.pt/bose_designmax_dm8c_sub_white.htm
+
+Na sala de estar temos ainda um sistema sonos composto por:
+
+- [Sonos Beam](https://www.sonos.com/en/shop/beam)
+- [Sonos One SL](https://www.sonos.com/en/shop/one-sl?srsltid=AfmBOop_8EjpwiMf0MPzaQS8Vh2vBlcW-9FSfJmmE0zOrJ9PvFj08trL) x **2**
+- [Sonos Subwoofer](https://www.sonos.com/en/shop/sub?srsltid=AfmBOorh689FWZy-3qwS9-IMNhCfGFW60v5qatTc6MxrZnWLUtxblU-S)
+
+Para a churrasqueira optou-se por um sistema stereo composto por [Sonos Era 100](https://www.sonos.com/en/shop/era-100?srsltid=AfmBOooUomedbct8qNb9p-y-KQO2FiwfXvJ68P2cXGC3GdfebMqVHwFS).
 
 
 
@@ -727,15 +753,6 @@ A passagem para o projector tem 2 cabos a passar:
 - 1 cabo de currente 220V
 
 O elevador do projector tanto pode ser controlado com o controlo remoto, como pode ser controlado com o controlo central que fica por baixo da TV.
-
-
-
-Tenho que procurar o melhor projector com as seguintes características:
-
-- 4K native
-- ceiling mount
-- android system
-- under $1000
 
 
 
@@ -810,11 +827,11 @@ O páteo tem relva sintetica.
 
 ## Árvores
 
-A árvore central é uma Cerejeira Japonesa de flor branca, comprada a 27 de Julho de 2025, já com cerca de 4 metros de altura. O nome cientifico da árvore é "Prunus Avium 'Pleana'" com código PAP 20/25.
+A árvore central é uma Cerejeira Japonesa de flor branca, comprada a 27 de Julho de 2025, já com cerca de 4 metros de altura. O nome cientifico da árvore é "**Prunus Avium 'Pleana'**" com código PAP 20/25.
 
-As plantas da entrada, junto ao arco da porta principal são Buxus Bola, comprados com 35/40cm.
+As plantas da entrada, junto ao arco da porta principal são **Buxus Bola**, comprados com 35/40cm. Em frente temos 5 plantas "**Thuja ocidentalis 'Esmeralda'**".
 
-Compramos também um Carvalho americano "Quercus Coccinea ou Rubra???", a 13 de Julho de 2025, com cerca de 5 metros de altura.
+Compramos também um Carvalho americano "**Quercus Coccinea ou Rubra???**", a 13 de Julho de 2025, com cerca de 5 metros de altura.
 
 
 
@@ -871,6 +888,8 @@ O objectivo deste capítulo é ter acesso facilitado e rápido aos manuais de in
 | 29   | Concealed_ceiling_curtain_user_manual                  | [Ceiling curtain projector](./User_Manuals/Concealed_ceiling_curtain_user_manual.pdf) |
 | 30   | BSeed Smart Socket & Switch                            | [BSeed Switch](./User_Manuals/BSeed_Smart_Socket_Switch.pdf) |
 | 31   | Projector Acer X1827                                   | [Acer X1827](./User_Manuals/User Manual_Acer_1.0_A_A.pdf)    |
+| 32   | Wavlink                                                | [Wavlink Wifi 6 Outdoor Mesh Router/AP/Repeater](./User_Manuals/Wavlink.pdf) |
+| xx   | Currysmarter Smart Light Switch                        | [Currysmarter Light](./User_Manuals/Wifi Switch Currysmarter.pdf) |
 
 
 
