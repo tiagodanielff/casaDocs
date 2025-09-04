@@ -839,7 +839,7 @@ Compramos também um Carvalho americano "**Quercus Coccinea ou Rubra???**", a 13
 
 ### Telhado
 
-O telhado da churrasqueira é composto por uma camada de forro branco, que tem XPS em cima e telhas Coelho da Silva Marselha Primus.
+O telhado da churrasqueira é composto por uma camada de forro branco, que tem XPS em cima e telhas Coelho da Silva **Marselha Primus**.
 
 ### Forno
 
@@ -848,6 +848,8 @@ O Forno encontrasse enterrado por trás da churrasqueira com medidas de 90x90.
 ### Churrasqueira
 
 A churrasqueira tem medidas interiores de 85cm, com chaminé. A altura do tecto até ao chão no local da churrasqueira é de 3,30m.
+
+Na churrasqueira temos um grelhador adaptado "**[Barbecue Drawer Merida Imex El Zorro](https://www.thebarbecuestore.es/Barbecue-Drawer-Merida)**".
 
 
 
