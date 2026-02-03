@@ -440,6 +440,28 @@ As lâmpadas Gu10 nesta divisão são de várias marcas, conforme indicado abaix
 
 
 
+## Shelly
+
+Os endereços dos Shellys são os seguintes:
+
+**192.168.1.12** - Water controllers (machine's room)
+
+**192.168.1.14** - Floor Heating (despensa 1º andar)
+
+**192.168.1.16** - Luzes Exteriores (Hall R/C)
+
+**192.168.1.22** - Outdoor Drying Area
+
+192.168.1.24 - 
+
+
+
+
+
+
+
+
+
 ## Tomadas electricas
 
 As tomadas eléctricas são na sua grande maioria convencionais, no entanto nos WCs tem protecção anti-humidade e em muitos dos pontos têm ligação directa USB e USB-C.
@@ -754,9 +776,35 @@ O elevador do projector tanto pode ser controlado com o controlo remoto, como po
 
 
 
+## Cameras
+
+Segue abaixo os QR codes das câmeras de vigilância:
+
+### Câmara da frente da casa
+
+<img src="./imagens/Cameras/frente.jpeg" style="height:300px" />
+
+### Câmara rotativa
+
+<img src="./imagens/Cameras/rotativa.jpeg" style="height:300px" />
+
+### Câmara traseiras
+
+<img src="./imagens/Cameras/traseiras.jpeg" style="height:300px" />
+
+
+
+
+
 # Cozinha
 
 ## Modelo 3D
+
+
+
+## Cor
+
+A cor da cozinha tem a seguinte referência: RAL 1019
 
 
 
