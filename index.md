@@ -804,7 +804,7 @@ Segue abaixo os QR codes das câmeras de vigilância:
 
 ## Cor
 
-A cor da cozinha tem a seguinte referência: RAL 1019
+A cor da cozinha tem a seguinte referência: **RAL 1019**
 
 
 
