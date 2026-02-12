@@ -857,6 +857,14 @@ Temos ainda 7 buracos na bancada, com as seguintes especificações.
 
 
 
+# Móvel
+
+## Móvel azul 1º andar
+
+As lâmpadas superiores são E27, de 4W, 2700K, sem serem dimmable.
+
+
+
 # Exteriores
 
 ## Pavimentos
